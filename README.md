@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
  
-- 🔥 I'm also enhancing myself in the field of **GUI Development with Python**
+- 🔥 I'm also enhancing myself in the field of **Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
